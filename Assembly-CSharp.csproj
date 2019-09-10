@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Auido\AuidoSourceManager.cs" />
+    <Compile Include="Assets\Scripts\ChessOrGrid\ChessOrGrid.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
     <Compile Include="Assets\Scripts\UI\UIManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
